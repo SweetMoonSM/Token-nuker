@@ -1,0 +1,25 @@
+{
+    "threads": 40,
+    "proxy": true,
+
+    "email_pass_token": true,
+
+    "hypesquad": {
+        "enabled": true,
+        "delete": false,
+
+        "random": true,
+        "house_id": 1
+    },
+
+    "bio": {
+        "enabled": false,
+        "replace": false,
+        "delete": true
+    },
+
+    "delete_dm": true,
+    "leave_guild": true,
+
+    "price": 0.04
+}
